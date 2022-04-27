@@ -1,0 +1,19 @@
+{
+    "name": "Brand Logo",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "BagwGGAUXBgzdHaMKYXWcwnsNU3YZk6W4sFbkEaZMy4x",
+                "share": 100
+            }
+        ]
+    }
+}
